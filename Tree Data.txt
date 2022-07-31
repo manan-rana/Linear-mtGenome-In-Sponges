@@ -1473,3 +1473,10 @@ LZ972385.1_2752-3534:0.11596);
 
 Human RefSeq Gene Database-
 (unknown:0.30201,NG_007971.2_22-576:0.30201);
+
+# Sequence Tagged Sites Database-
+
+(
+Unknown:0.28889,
+BV168077.1_107-592:0.00000,
+BV179803.1_2973-3458:0.00000);
