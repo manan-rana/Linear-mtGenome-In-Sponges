@@ -1,0 +1,15 @@
+DP_Sequences - DNA Polymerase Sequences file contains downloaded sequences from BLASTp and tBLASTn results.
+
+DP_Tree Data - File which contains the phylogenetic tree data from alignment of DNA Polymerase sequence with downloaded sequences.
+
+IP_Sequences - Intronic Protein sequences file contains downloaded sequences from BLASTp and tBLASTn that match with sequence of intronic protein.
+
+IP_Tree Data - Contains phylogenetic tree data from alignment of Intronic protein sequence with downloaded sequences.
+
+Phylogenetic tree of alligned sequences contains software generated phylogenetic tree of DNA Polymerase with downloaded Sequences.
+Phlogenetic tree of Intronic Protein contains software generated phylogenetic tree of Intronic Protein with downloaded Sequences.
+
+
+      Abbrevations-
+      DP :- DNA Polymerase
+      IP :- Intronic Protein
